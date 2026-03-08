@@ -53,24 +53,6 @@ guessaro
 └── README.md
 ```
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository
-
-```
-git clone https://github.com/your-username/guessaro.git
-```
-
-2. Open the project folder
-
-3. Open **index.html** in your browser
-
-That's it — play the game 🎮
-
----
-
 ## 🎯 Purpose
 
 This project was built mainly for:
