@@ -78,4 +78,4 @@ Possible upgrades:
 ## 🎮 Live Demo
 
 Play the game here:  
-https://darsana0204.github.io/guessaro
+[(https://darsana0204.github.io/Guessaro/)](https://darsana0204.github.io/Guessaro/)
