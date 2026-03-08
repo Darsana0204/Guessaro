@@ -73,3 +73,9 @@ Possible upgrades:
 * sound effects
 * difficulty levels
 * leaderboard
+
+---
+## 🎮 Live Demo
+
+Play the game here:  
+https://darsana0204.github.io/guessaro
