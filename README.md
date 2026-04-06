@@ -1,8 +1,8 @@
-# Guessaro 🍓
+# Guessaro 
 
 *A Fruit Word Guessing Game*
 
-## 📌 Project Info
+## Project Info
 
 This project was created as part of **Useless Projects**, an initiative by **TinkerHub Foundation**, on **November 04, 2024**.
 
@@ -10,9 +10,8 @@ The idea of the event was to build something fun, experimental, or quirky withou
 
 Guessaro is a simple **fruit word guessing game** built using basic web technologies.
 
----
 
-## 🎮 About the Game
+## About the Game
 
 Guessaro is a browser-based game where players try to guess the name of a fruit one letter at a time.
 
@@ -22,38 +21,23 @@ The player:
 * Has limited attempts
 * Can reveal a missing letter as a hint
 
----
 
-## ✨ Features
+## Features
 
-* 🍎 Fruit-based word guessing
-* 🔍 Reveal letter hint system
-* 🎨 Animated colorful UI
-* ⌨️ Simple keyboard input
-* 🔄 Restart game option
+*  Fruit-based word guessing
+*  Reveal letter hint system
+*  Animated colorful UI
+*  Simple keyboard input
+*  Restart game option
 
----
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * **HTML**
 * **CSS**
 * **JavaScript**
 
----
-
-## 📂 Project Structure
-
-```
-guessaro
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-```
-
-## 🎯 Purpose
+## Purpose
 
 This project was built mainly for:
 
@@ -61,10 +45,8 @@ This project was built mainly for:
 * experimenting with UI and animations
 * participating in the **Useless Projects** event
 
----
 
-
-## 🌱 Future Improvements
+## Future Improvements
 
 Possible upgrades:
 
@@ -74,8 +56,7 @@ Possible upgrades:
 * difficulty levels
 * leaderboard
 
----
-## 🎮 Live Demo
+## Live Demo
 
 Play the game here:  
 [(https://darsana0204.github.io/Guessaro/)](https://darsana0204.github.io/Guessaro/)
